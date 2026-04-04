@@ -115,6 +115,5 @@
   { "name": "ImmediatelyFast-Forge-1.5.4+1.20.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/ImmediatelyFast-Forge-1.5.4+1.20.4.jar" },
   { "name": "lucent-1.20.1-1.5.5.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/lucent-1.20.1-1.5.5.jar" },
   { "name": "modernfix-forge-5.26.2+mc1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/modernfix-forge-5.26.2+mc1.20.1.jar" },
-  { "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/noisium-forge-2.3.0+mc1.20-1.20.1.jar" },
-  { "name": "redirector-5.0.0.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/redirector-5.0.0.jar" }
+  { "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/noisium-forge-2.3.0+mc1.20-1.20.1.jar" }
 ]
