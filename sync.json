@@ -76,7 +76,6 @@
   { "name": "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar" },
   { "name": "portablemobs-1.2.0-forge-mc1.20.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/portablemobs-1.2.0-forge-mc1.20.jar" },
   { "name": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/PuzzlesLib-v8.1.33-1.20.1-Forge.jar" },
-  { "name": "redeco-forge-1.12.1-1.20.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/redeco-forge-1.12.1-1.20.jar" },
   { "name": "refurbished_furniture-forge-1.20.1-1.0.12.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/refurbished_furniture-forge-1.20.1-1.0.12.jar" },
   { "name": "relics-1.20.1-0.8.0.6.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/relics-1.20.1-0.8.0.6.jar" },
   { "name": "repurposed_structures-7.1.21+1.20.1-forge.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/repurposed_structures-7.1.21+1.20.1-forge.jar" },
@@ -102,5 +101,14 @@
   { "name": "watut-forge-1.20.1-1.2.3.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/watut-forge-1.20.1-1.2.3.jar" },
   { "name": "waystones-forge-1.20-14.1.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/waystones-forge-1.20-14.1.4.jar" },
   { "name": "YungsApi-1.20-Forge-4.0.6.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/YungsApi-1.20-Forge-4.0.6.jar" },
-  { "name": "[1.20.1] SecurityCraft v1.10.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/1.20.1.SecurityCraft.v1.10.1.jar" }
+  { "name": "[1.20.1] SecurityCraft v1.10.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/1.20.1.SecurityCraft.v1.10.1.jar" },
+  { "name": "badpackets-forge-0.4.3.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/badpackets-forge-0.4.3.jar" },
+  { "name": "wthit-1.20.1-forge-8.21.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/wthit-1.20.1-forge-8.21.1.jar" },
+  { "name": "doubledoors-1.20.1-7.2.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/doubledoors-1.20.1-7.2.jar" },
+  { "name": "AmbientSounds_FORGE_v6.3.4_mc1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/AmbientSounds_FORGE_v6.3.4_mc1.20.1.jar" },
+  { "name": "dynamiclights-v1.9-mc1.17-1.21.9-mod.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar" },
+  { "name": "the_knocker-1.5.0-forge-1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/the_knocker-1.5.0-forge-1.20.1.jar" },
+  { "name": "cave_dweller-1.20.1-1.6.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/cave_dweller-1.20.1-1.6.4.jar" },
+  { "name": "From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar" },
+  { "name": "lootr-forge-1.20-0.7.35.94.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/lootr-forge-1.20-0.7.35.94.jar" }
 ]
