@@ -109,11 +109,12 @@
   { "name": "waystones-forge-1.20-14.1.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/waystones-forge-1.20-14.1.4.jar" },
   { "name": "wthit-1.20.1-forge-8.21.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/wthit-1.20.1-forge-8.21.1.jar" },
   { "name": "YungsApi-1.20-Forge-4.0.6.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/YungsApi-1.20-Forge-4.0.6.jar" },
-  { "name": "boy_and_the_bath-3.4.0-forge-1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/boy_and_the_bath-3.4.0-forge-1.20.1.jar" },
   { "name": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/CullLessLeaves-Reforged-1.20.1-1.0.5.jar" },
   { "name": "entityculling-forge-1.10.0-mc1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/entityculling-forge-1.10.0-mc1.20.1.jar" },
   { "name": "ImmediatelyFast-Forge-1.5.4+1.20.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/ImmediatelyFast-Forge-1.5.4+1.20.4.jar" },
   { "name": "lucent-1.20.1-1.5.5.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/lucent-1.20.1-1.5.5.jar" },
   { "name": "modernfix-forge-5.26.2+mc1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/modernfix-forge-5.26.2+mc1.20.1.jar" },
-  { "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/noisium-forge-2.3.0+mc1.20-1.20.1.jar" }
+  { "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/noisium-forge-2.3.0+mc1.20-1.20.1.jar" },
+  { "name": "the_knocker-1.5.0-forge-1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/the_knocker-1.5.0-forge-1.20.1.jar"},
+  { "name": "cave_dweller-1.20.1-1.6.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/cave_dweller-1.20.1-1.6.4.jar"}
 ]
