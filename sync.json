@@ -115,5 +115,15 @@
   { "name": "modernfix-forge-5.26.2+mc1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/modernfix-forge-5.26.2+mc1.20.1.jar" },
   { "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/noisium-forge-2.3.0+mc1.20-1.20.1.jar" },
   { "name": "the_knocker-1.5.0-forge-1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/the_knocker-1.5.0-forge-1.20.1.jar"},
-  { "name": "cave_dweller-1.20.1-1.6.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/cave_dweller-1.20.1-1.6.4.jar"}
+  { "name": "cave_dweller-1.20.1-1.6.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/cave_dweller-1.20.1-1.6.4.jar"},
+  { "name": "majrusz-library-forge-1.20.1-7.0.8.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/majrusz-library-forge-1.20.1-7.0.8.jar" },
+  { "name": "insanelib-1.23.4.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/insanelib-1.23.4.4.jar" },
+  { "name": "Structory_1.20.x_v1.3.5.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/Structory_1.20.x_v1.3.5.jar" },
+  { "name": "deeperdarker-forge-1.20.1-1.3.3.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/deeperdarker-forge-1.20.1-1.3.3.jar" },
+  { "name": "enhancedai-3.3.6.3.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/enhancedai-3.3.6.3.jar" },
+  { "name": "nyfsspiders-Forge-1.20.1-3.0.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/nyfsspiders-Forge-1.20.1-3.0.1.jar" },
+  { "name": "born_in_chaos_.Forge.1.20.1_1.7.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/born_in_chaos_.Forge.1.20.1_1.7.4.jar" },
+  { "name": "legendarymonsters-2.0.6.MC.1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/legendarymonsters-2.0.6.MC.1.20.1.jar" },
+  { "name": "Terralith_1.20.x_v2.5.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/Terralith_1.20.x_v2.5.4.jar" },
+  { "name": "majruszs-difficulty-forge-1.20.1-1.9.10.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/majruszs-difficulty-forge-1.20.1-1.9.10.jar" }
 ]
