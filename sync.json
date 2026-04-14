@@ -55,7 +55,6 @@
   { "name": "Inventory.Management.Deluxe-1.20.1-Forge-1.0.3.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/Inventory.Management.Deluxe-1.20.1-Forge-1.0.3.jar" },
   { "name": "jei-1.20.1-forge-15.12.2.51.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/jei-1.20.1-forge-15.12.2.51.jar" },
   { "name": "journeymap-1.20.1-5.10.1-forge.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/journeymap-1.20.1-5.10.1-forge.jar" },
-  { "name": "JustEnoughGuns-0.13.2-1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/JustEnoughGuns-0.13.2-1.20.1.jar" },
   { "name": "JustEnoughResources-1.20.1-1.4.0.247.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/JustEnoughResources-1.20.1-1.4.0.247.jar" },
   { "name": "justzoom_forge_1.0.2_MC_1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/justzoom_forge_1.0.2_MC_1.20.1.jar" },
   { "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar" },
@@ -125,5 +124,6 @@
   { "name": "born_in_chaos_.Forge.1.20.1_1.7.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/born_in_chaos_.Forge.1.20.1_1.7.4.jar" },
   { "name": "legendarymonsters-2.0.6.MC.1.20.1.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/legendarymonsters-2.0.6.MC.1.20.1.jar" },
   { "name": "Terralith_1.20.x_v2.5.4.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/Terralith_1.20.x_v2.5.4.jar" },
-  { "name": "majruszs-difficulty-forge-1.20.1-1.9.10.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/majruszs-difficulty-forge-1.20.1-1.9.10.jar" }
+  { "name": "majruszs-difficulty-forge-1.20.1-1.9.10.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/majruszs-difficulty-forge-1.20.1-1.9.10.jar" },
+  { "name": "elevatorid-1.20.1-1.9.1-forge.jar", "url": "https://github.com/TeilorSuit/esqueletos-mods/releases/download/v1.0/elevatorid-1.20.1-1.9.1-forge.jar"}
 ]
